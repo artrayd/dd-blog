@@ -3,6 +3,8 @@
 # DD BLOG
 Data Driven Blog
 
+[Demo](https://artrayd.com/dd-blog/#/dd-blog)
+
 ## Basic Usage
 To change posts
 
@@ -36,6 +38,9 @@ All posts are generated from this data. Nothing is necessary, post can contain a
     "tags": ["Main", "Example" ]
   }
 ```
+
+[JSON Sample](https://jsoneditoronline.org/#left=cloud.857534d645754afc98a67a2042532df6)
+
 ## Tags and top menu
 Top menu is auto generated from post tags, default starting tag is main. Post can appear at several menu pages, according to its tags.
 
