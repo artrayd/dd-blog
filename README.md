@@ -2,7 +2,7 @@
 Data Driven Blog
 
 ## Basic Usage
-For data change
+To change posts
 
 1. Download all files from "dist" folder
 2. Open and edit ״posts.json״ with any text editor or https://jsoneditoronline.org/ tool.
