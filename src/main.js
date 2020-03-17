@@ -15,7 +15,7 @@ new Vue({
 }).$mount('#app')
 
 // Vue Analytics
-import VueAnalytics from 'vue-analytics'
-Vue.use(VueAnalytics, {
-  id: 'UA-123456780-00' 
-})
+// import VueAnalytics from 'vue-analytics'
+// Vue.use(VueAnalytics, {
+//   id: 'UA-123456780-00' 
+// })

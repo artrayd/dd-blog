@@ -40,7 +40,7 @@ export default {
   },
   data: function () {
     return{
-      curTag: 'Main Things', // if you want to start with all tags, comment this line and uncoment the next one
+      curTag: 'Main', // if you want to start with all tags, comment this line and uncoment the next one
       // curTag: '', uncommennt if you want to start with all tags
       posts: [],
       menu: [],
@@ -111,10 +111,10 @@ export default {
       })
 
       // show all tags, don't use All tag
-      // if (tag === 'all'){
-      //   this.posts = this.postsBack;
-      //   this.curTag = 'all'        
-      // }
+      if (tag === ''){
+        this.posts = this.postsBack;
+        this.curTag = 'all'        
+      }
 
     },
 
