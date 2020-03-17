@@ -34,8 +34,12 @@ All posts are generated from this data. Nothing is necessary, post can contain a
     "tags": ["Main", "Example" ]
   }
 ```
+## Tags and top menu
+Top menu is auto generated from post tags, default starting tag is main. Post can appear at several menu pages, according to its tags.
 
-## Project setup
+## Advanced usage
+With advanced usage you will be able to customize DD blog, change design or add new functionality.
+
 ```
 npm install
 ```
@@ -55,5 +59,4 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Thank you, if you have any questions or suggest, please contact me.
