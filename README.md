@@ -1,3 +1,5 @@
+![DD Blog image](https://artrayd.com/dd-blog/img/icons/favicon-128.png)
+
 # DD BLOG
 Data Driven Blog
 
@@ -37,9 +39,14 @@ All posts are generated from this data. Nothing is necessary, post can contain a
 ## Tags and top menu
 Top menu is auto generated from post tags, default starting tag is main. Post can appear at several menu pages, according to its tags.
 
-## Advanced usage
-With advanced usage you will be able to customize DD blog, change design or add new functionality.
+## Design
+There is ddblog.sketch file in design folder, feel free to use that. To customize CSS or Bootstrap layout - read about advanced usage.
 
+# Advanced usage
+With advanced usage you will be able to customize DD Blog, change design or add new functionality. I used VueJS Cli and Vue-Bootstrap to build this.
+
+
+## Install all dependencies
 ```
 npm install
 ```
