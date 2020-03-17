@@ -1,4 +1,5 @@
-# dand-blog
+# DD BLOG
+Data Driven Blog
 
 ## Project setup
 ```
