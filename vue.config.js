@@ -1,4 +1,4 @@
 module.exports = {
-  publicPath: '/dd-blog',
+  publicPath: '/',
   productionSourceMap: false
 }
