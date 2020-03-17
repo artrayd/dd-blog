@@ -1,7 +1,7 @@
 ![DD Blog image](https://artrayd.com/dd-blog/img/icons/favicon-128.png)
 
 # DD BLOG
-Data Driven Blog
+Data Driven Blog. Use JSON format to display your data and clean and minimal design. DD Blog provides you high performance single page app. Built with VueJS and Bootsrap.
 
 [Demo](https://artrayd.com/dd-blog/#/dd-blog)
 
