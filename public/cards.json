@@ -1,0 +1,435 @@
+[
+    {
+    "icon": "img/ava.gif",
+    "title": "Dmitry Mind",
+    "subtitle": "About me",
+    "text": "Designer, developer, enterprenuer and freelancer. Here are collected my pet projects, articles and thoughts for the last 5 years. ",
+    "link": [
+          {
+            "href": "https://www.behance.net/artrayd",
+            "text": "Behance"
+          },
+
+          {
+            "href": "https://dribbble.com/artrayd/",
+            "text": "Dribbble"
+          }
+  
+        ],
+    "tags": ["Main Things" ]
+  },
+
+  {
+    "icon": "img/spa.svg",
+    "title": "Data Driven Blog",
+    "subtitle": "By dev and design",
+    "text": "DD Blog is an open source blog engine, built with VueJS and Bootstrap. Feel free to use or change it for your own needs 😎",
+    "link": [{
+          "href": "https://github.com/artrayd/dd-blog/",
+          "text": "GitHub"
+        }],
+    "tags": ["Main Things", "DD Blog", "Open Source"]
+  },
+
+  {
+    "title": "Why to use DD Blog?",
+    "subtitle": "Reasons",
+    "text": "Easy way to present your things in one place, using just title, subtitle, few lines of text and links. Get your own high performance and single page app from pure data in minimal design.",
+    "link": [{
+          "href": "https://github.com/artrayd/dd-blog/",
+          "text": "Get Started"
+        }],
+    "tags": ["DD Blog"]
+  },
+
+  {
+    "title": "Requirements",
+    "subtitle": "Requirements",
+    "text": "All you need to get started is text editor and hosting to upload files. For advanced customization and adding features, VueJS knowledge is required.",
+      "link": [{
+        "href": "#",
+        "text": "Learn More"
+      }],
+    "tags": ["DD Blog"]
+  },
+
+  {
+    "title": "Data Format",
+    "text": "All posts data is stored at JSON file, everything you see here is generated from that data. For more details please check docs.",
+    "tags": ["DD Blog"]
+  },
+
+  {
+    "title": "Post Sorting",
+    "text": "All post are sorted by tags, top navigation on the left side generated automatically from the JSON data.",
+    "tags": ["DD Blog"]
+  },
+
+  {
+    "title": "Planned Features",
+    "subtitle": "Message to the future",
+    "text": "Lists view. Images. Line spacing element. WYSIWYG text editor and option to connect DB.",
+    "link": {
+      "href": "mailto:'artrayd@gmail.com'",
+      "text": "Contact Me"
+    },
+    "tags": ["DD Blog"]
+  },
+
+
+  {
+    "title": "Card with Photo",
+    "subtitle": "Example",
+    "photo": "img/photo.jpg",
+    "text": "Every post is built of title, subtitle, photo, icon, text and and link. You can combine these things as you need.",
+    "tags": ["DD Blog"]
+  },
+
+  {
+    "icon": "img/spaceranger.svg",
+    "title": "Space Ranger",
+    "subtitle": "Hyper Casual Game",
+    "text": "Simplified sea battle gameplay mechanic from the perspective of hyper casual gaming.",
+    "link": 
+      [{
+        "href": "https://spaceranger.space/",
+        "text": "Play Now"
+      },
+      {
+        "href": "https://play.google.com/store/apps/details?id=com.spacebattle.app",
+        "text": "Google Play"
+      }]
+    ,
+    "tags": ["Main Things", "Games" ]
+  },
+
+  {
+    "title": "SEX = Services & EXtensions",
+    "subtitle": "Abreviatures are funny, no?)",
+    "text": "Here I placed all of my mini services, browser web extensions and single page apps.",
+    "tags": ["SEX" ]
+  },
+
+  {
+    "icon": "img/quicka.svg",
+    "title": "Quick 'A' - Tabs Switch",
+    "subtitle": "Chrome Extension",
+    "text": "Are you familiar with MacOs Spotlight search or Ctrl+Tab on Windows? Quick A brings a similar UX to your Chrome browser.",
+    "link": [{
+          "href": "https://chrome.google.com/webstore/detail/quick-a-tabs-switch/gilkjbonaifnnghbdpjmbomjjfffabmn",
+          "text": "Web Store"
+        },{
+          "href": "https://chrome.google.com/webstore/detail/quick-a-tabs-switch/gilkjbonaifnnghbdpjmbomjjfffabmn?hl=en",
+          "text": "Watch Demo"
+        }
+      ],
+    "tags": ["Main Things", "SEX" ]
+  },
+
+  {
+    "title": "Stop User Discrimination",
+    "subtitle": "Article, 5 min read",
+    "text": "Imagine the feeling of vegetarian that comes to the restaurant and there is a special vegetarian menu. This is how feels a person that can personalize his user experience in your app or service.",
+    "link": {
+      "href": "https://uxdesign.cc/stop-user-discrimination-start-using-personas-8990ec67f164",
+      "text": "Read More"
+    },
+    "tags": ["Main Things", "Publications" ]
+  },
+
+  {
+    "icon": "img/draw.svg",
+    "title": "FreeHand SVG Draw",
+    "subtitle": "Single Page App",
+    "text": "Draw vector SVG paths with mouse or fingers. Made with VueJS.",
+    "link": [
+        {
+          "href": "https://artrayd.com/freehand-svg/",
+          "text": "Try Demo"
+        },
+        {
+          "href": "https://github.com/artrayd/vuejs-freehand-svg-draw",
+          "text": "GitHub"
+        }
+      ],
+    "tags": ["Main Things", "Open Source" ]
+  },
+
+  {
+    "icon": "img/nirva.svg",
+    "title": "Nirvana Game of Life ",
+    "subtitle": "Indie Game",
+    "text": "The indie game made with friends, that reached more than a million downloads and loved by players overall world.",
+    "link": [
+          {
+            "href": "https://apps.apple.com/us/app/nirvana-game-of-life/id1485213298",
+            "text": "App Store"
+          },
+
+          {
+            "href": "https://play.google.com/store/apps/details?id=goldtusks.doron.nirvana",
+            "text": "Google Play"
+          },
+
+          {
+            "href": "https://www.youtube.com/watch?v=iwELOM8H7tA",
+            "text": "Trailer"
+          }
+  
+        ],
+    "tags": ["Main Things", "Games"]
+  },
+
+  {
+    "title": "How we used Facebook ads to choose a game design style",
+    "subtitle": "Article, 2 min read ",
+    "text": "We make the game for players, so we decided to let them choose design  by running real AB test on Facebook ads and checking which banner will get more clicks.",
+    "link": [
+          {
+            "href": "https://medium.com/nirvanagame/how-we-used-facebook-ads-for-choosing-game-design-style-d60e2b6fa952",
+            "text": "Read it"
+          }
+  
+        ],
+    "tags": ["Main Things", "Publications"]
+  },
+
+  {
+    "icon": "img/diarywheel.svg",
+    "title": "Diary Wheel",
+    "subtitle": "Single Page App",
+    "text": "Wheel of Diary - Online Service that will document most boring moments of your life!",
+    "link": [
+          {
+            "href": "https://artrayd.com/diarywheel/",
+            "text": "Try Now!"
+          },
+
+          {
+            "href": "https://medium.com/@dmitrymind/making-of-pet-project-d60560cadd88",
+            "text": "How that was made"
+          }
+
+  
+        ],
+    "tags": ["Main Things", "Games"]
+  },
+
+  {
+    "title": "How I increased average session time by 269% and… fooled myself 🤦‍♂️",
+    "subtitle": "Article, 5 min read",
+    "text": "To get feedbacks and analytics data for my research. I opened 3 topics in different forums and got 1.4K users in 3 weeks, that generated 17.2k analytic events and around 30 feedbacks.",
+    "link": {
+      "href": "https://medium.com/@dmitrymind/how-i-increased-average-session-time-by-269-and-fooled-myself-8ee53bb57049",
+      "text": "Read how :)"
+    },
+    "tags": ["Main Things", "Publications" ]
+  },
+
+  {
+    "title": "Save 5–10 min a day with this web extension",
+    "subtitle": "Article, 4 min read",
+    "text": "Do you use keyboard shortcuts? If yes — this article is for you.",
+    "link": {
+      "href": "https://medium.com/@dmitrymind/this-web-extension-will-help-you-to-save-1-5-cee580480881",
+      "text": "Learn How"
+    },
+    "tags": ["Publications" ]
+  },
+
+  {
+    "title": "Making of fun Pet Project ‘CandyWheel’ 🍬",
+    "subtitle": "Article, 5 min read",
+    "link": {
+      "href": "https://medium.com/@dmitrymind/making-of-pet-project-d60560cadd88",
+      "text": "Read More"
+    },
+    "tags": ["Publications" ]
+  },
+
+  {
+    "icon": "img/reverse.svg",
+    "title": "Text Reverse Tool",
+    "subtitle": "Single Page App",
+    "text": "RTL language designers suffer because of lack of RTL support in many design soft. I made this tool to make their lifes eaiser.",
+    "link": {
+      "href": "https://artrayd.com/text-reverse-tool/",
+      "text": "Try Now"
+    },
+    "tags": ["Main Things","SEX" ]
+  },
+
+  {
+    "icon": "img/v2t.svg",
+    "title": "Voice To Text",
+    "subtitle": "Chrome Extension",
+    "text": "Chrome extension that converts voice to text. The difference between hundreds of similar extensions and services, that it works on any tab.",
+    "link": [
+        {
+          "href": "https://chrome.google.com/webstore/detail/voice-to-text/fidgcpajdfmndoamnjlpjkofgjebjhbb",
+          "text": "Web Store"
+        },
+        {
+          "href": "https://www.youtube.com/watch?v=caswT041Rqs",
+          "text": "Watch Video"
+        }
+      ],
+    "tags": ["Main Things","SEX" ]
+  },
+
+  {
+    "icon": "img/demons.png",
+    "title": "9 Demons: The beginning of apocalypse",
+    "subtitle": "Single Page App",
+    "text": "Play with 9-Demons. Be good, evil or.. just lol. Game will choose its own narrative for you ❤🔥😂",
+    "link": [
+        {
+          "href": "https://chpockrock.itch.io/9-daemons",
+          "text": "Check it out"
+        }
+      ],
+    "tags": ["Main Things","SEX" ]
+  },
+
+  {
+    "icon": "img/cutes.svg",
+    "title": "Cute Cursors",
+    "subtitle": "Chrome Extension",
+    "text": "This Chrome extension replaces the boring default cursor to something more fun and cute. Reached 30K+ Weekly users and featured by Google.",
+    "link": [
+        {
+          "href": "https://chrome.google.com/webstore/detail/cute-cursors/anflghppebdhjipndogapfagemgnlblh?hl=en",
+          "text": "Web Store"
+        }
+      ],
+    "tags": ["Main Things","SEX" ]
+  },
+
+  {
+    "icon": "img/gift.gif",
+    "title": "Surprising Gifts",
+    "subtitle": "Online Service",
+    "text": "Sending short funny quest with a personal message at the end. Over 20K custom gifts (16% conversion rate) were generated over last years.",
+    "link": [
+        {
+          "href": "https://chrome.google.com/webstore/detail/cute-cursors/anflghppebdhjipndogapfagemgnlblh?hl=en",
+          "text": "Open Gift"
+        }
+      ],
+    "tags": ["Main Things","SEX" ]
+  },
+
+  {
+    "icon": "img/otiot.png",
+    "title": "Otiot Gdolot",
+    "subtitle": "Hebrew Font",
+    "text": "This font adds capital letters to the Hebrew language to improve readability.",
+    "link": [
+        {
+          "href": "https://chrome.google.com/webstore/detail/cute-cursors/anflghppebdhjipndogapfagemgnlblh?hl=en",
+          "text": "GitHub"
+        },
+
+        {
+          "href": "https://github.com/artrayd/otiot-gdolot",
+          "text": "Learn More"
+        }
+      ],
+    "tags": ["Main Things", "Open Source"]
+  },
+
+  {
+    "icon": "img/magichat.svg",
+    "title": "Mr. Number Predictor",
+    "subtitle": "Funny stuff",
+    "text": "Once upon a time in one far away country lived one illusionist. He had a hat. He used that hat to hide rabbits, pigeons, and other stuff.",
+    "link": [
+        {
+          "href": "https://artrayd.com/magic-hat/",
+          "text": "Try it"
+        },
+        {
+          "href": "https://play.google.com/store/apps/details?id=com.artrayd.app",
+          "text": "Google Play"
+        }
+      ],
+    "tags": ["Main Things", "Games"]
+  },
+
+  {
+    "icon": "img/trollsole.png",
+    "title": "TrollsoleJS",
+    "subtitle": "Coders Prank",
+    "text": "Replaces developer console with trollface console or anything custom. Include script into your html document, and prank your colleague or friend ;)",
+    "link": [
+        {
+          "href": "https://github.com/artrayd/TrollsoleJS",
+          "text": "GitHub"
+        }
+      ],
+    "tags": ["Main Things", "Open Source"]
+  },
+
+  {
+    "icon": "img/penis.svg",
+    "title": "Penis Cursor",
+    "subtitle": "Chrome Extension",
+    "text": "Replaces default cursor with penis. Your mouse pointer can be really fun! Choose between dickbutt, cartoon dick, 8 bit or classical phalos. Enjoy ;)",
+    "link": [
+        {
+          "href": "https://chrome.google.com/webstore/detail/penis-cursor/feiclbomfllbkdmeibcljmfbdakimmdg",
+          "text": "Web Store"
+        }
+      ],
+    "tags": ["Main Things", "SEX"]
+  },
+
+  {
+    "icon": "img/md.svg",
+    "title": "Magic Dust",
+    "subtitle": "JS Plugin",
+    "text": "Magic Dust is pure html solution for particles based effects. The main benefits of plugin is easy to use, high performance, responsive and lightweight, just 3.1KB.",
+    "link": [
+        {
+          "href": "http://md.artrayd.com/",
+          "text": "Live Demo"
+        },
+
+        {
+          "href": "https://codecanyon.net/item/magic-dust-html-particles/9955096",
+          "text": "Codecanyon"
+        }
+      ],
+    "tags": ["Main Things", "SEX"]
+  },
+
+  {
+    "icon": "img/starshine.png",
+    "title": "STARSHINE",
+    "subtitle": "JS Plugin",
+    "text": "Generates blinking stars with 6 customizable parameters. Add shiny, sexy or cartoon lights to any HTML element.",
+    "link": [
+        {
+          "href": "http://starshine.artrayd.com/",
+          "text": "Live Demo"
+        },
+
+        {
+          "href": "https://codecanyon.net/item/starshinejs-svg-animated-sparkling-stars-html-effect/11498792",
+          "text": "Codecanyon"
+        }
+      ],
+    "tags": ["Main Things", "SEX"]
+  },
+
+  {
+    "title": "Good designer makes things that he loves, great designer - things that users love.",
+    "tags": ["Main Things"]
+  },
+
+  {
+    "title": "Thank you for scrolling ❤️",
+    "text": "Feel free to contact me at artrayd@gmail.com",
+    "tags": ["Main Things"]
+  }
+]

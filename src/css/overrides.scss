@@ -1,0 +1,26 @@
+$body-bg: #ECEEEF;
+$border-radius-lg: .6rem;
+
+.bg-body{
+  background: rgba(236,238,239, 0.85);
+  backdrop-filter: blur(4px);
+}
+
+.card-body{
+	display: flex;
+	flex-direction: column;
+}
+
+.line-height-14{
+ line-height: 1.4 !important;	
+}
+
+
+.row [class*='col-'] {
+    transition: all 0.3s ease-in-out;
+}
+
+
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
+@import '../../node_modules/bootstrap-vue/src/index.scss';
+
